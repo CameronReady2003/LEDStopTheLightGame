@@ -39,7 +39,7 @@ bool scoreKey = false;
 int delayChange = 0;
 int score = 0;
 int pins[6] = { firstLED, secondLED, thirdLED, fourthLED, fifthLED, sixthLED };
-unsigned long timeLimit = 20000;  // 5 minute in milliseconds
+unsigned long timeLimit = 100000;  // 5 minute in milliseconds
 unsigned long startTime = 0;
 void setup() {
   //all digital pins, button and led circle
