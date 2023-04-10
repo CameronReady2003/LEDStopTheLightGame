@@ -19,3 +19,4 @@ Arduino Uno R3, Breadboard, Slideswitch, Press Button, 6 LED's, Use of Serial Mo
 # Improvememnts:
 Use of loops and conditional statments will be adjusted to lower line count and redundant conditions, use of functions will implimented. I will add an 16x2 LCD screen to output all the messages/string that the serial monitor is outputting, will also include future special characters on it to indicate to player how close they are to winning or losing. 
 
+![LED Basic Ring Game](https://user-images.githubusercontent.com/130194724/230829958-2f3cf072-94c5-41d4-8f0a-16ae72741daa.png)
