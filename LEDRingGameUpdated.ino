@@ -21,7 +21,6 @@ and the timer and score starts at zero again.
 Click the switch to change the difficulty
 (The speed of the pixel changing).
 Good luck/*/
-int everythingElse = 0;
 int redP = 0;
 int greenP = 0;
 int blueP = 0;
