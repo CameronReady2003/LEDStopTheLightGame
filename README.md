@@ -20,7 +20,7 @@ Arduino Uno R3, Breadboard, Slideswitch, Press Button, NeoPixel 12 LED, Use of S
 # Instructions in code
 
 # Improvememnts:
-Looking to increase size with an added lcd 16x2 screen to output all future messages.
+Looking to increase size of ring and an added lcd 16x2 screen to output all messages and characters.
 
 
 ![arduinoproject](https://user-images.githubusercontent.com/130194724/231319061-81fc557b-8423-4dfc-878c-953ba26e3e37.png)
